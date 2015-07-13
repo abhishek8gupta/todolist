@@ -1,0 +1,7 @@
+logs
+logs/*
+target
+target/*
+project/target
+project/target/*
+
