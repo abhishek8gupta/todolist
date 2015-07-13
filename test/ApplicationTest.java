@@ -28,7 +28,7 @@ import static org.fest.assertions.Assertions.*;
 public class ApplicationTest {
 
     @Test 
-    public void simpleCheckTest() {
+    public void mytest() {
         int a = 1 + 1;
         assertThat(a).isEqualTo(2);
     }
